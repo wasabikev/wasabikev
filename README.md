@@ -8,7 +8,7 @@
 
 🌐 You can reach me through my [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)
 
-🔮 **What's Next?** First I want to fine-tune one, then I want to find some compute so I can pre-train one.
+🔮 **What's Next?** I want to fine-tune one..... and agents.
 
 
 <!---

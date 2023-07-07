@@ -6,7 +6,9 @@
 
 💞️ I'm always open to collaborative opportunities, particularly those that involve innovative use of LLMs and AI. I'm eager to connect with others in the field and contribute to interesting and challenging projects.
 
-📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)
+🌐 You can reach me through my [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)
+
+🔮 **What's Next?** First I want to fine-tune one, then I want to find some compute so I can pre-train one.
 
 
 <!---

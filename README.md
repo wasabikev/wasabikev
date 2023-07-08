@@ -8,7 +8,7 @@
 
 🌐 You can reach me through my [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)
 
-🔮 **What's Next?** I want to work with the entire LLM tech stack, building applications and solutions.
+🔮 **What's Next?** J.A.R.V.I.S.
 
 
 <!---

@@ -17,7 +17,6 @@ AI-first builder, workflow optimizer, and lifelong learner.
 🚀 **Recent Milestones**  
 - Shipped [AI ∞ UI](https://github.com/AsgardSystemsAI/AI-UI) as a modular, API-first LLM orchestration framework  
 - Transitioned to full-time founder/operator at [AsgardSystems.AI](https://asgardsystems.ai/)  
-- Established Bifrost as our company’s secure, proprietary AI platform  
 
 🤝 **Let’s Connect**  
 - [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)  

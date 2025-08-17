@@ -1,17 +1,32 @@
-👋 Hello, I'm @wasabikev!
+# 👋 Hi, I'm Kevin Atkinson (wasabikev)
 
-👀 I'm thinking too much about Large Language Models (LLMs) with a specific focus on their operations and the *wide* range of applications. "The Cambrian Explosion of AI."
+AI-first builder, workflow optimizer, and lifelong learner.
 
-🌱 I'm presently working on AI ∞ UI, an UI wrapper to interact with GPT and other LLMs and provide platform for broader orchestration.
+---
 
-💞️ I'm always open to collaborative opportunities, particularly those that involve innovative use of LLMs and AI. 
+🛠️ **Current Focus:**  
+- Building an internal AI orchestration platform powering AsgardSystems.AI and ClientContext for professional services. 
+- Exploring advanced LLM operations, contextual orchestration, and AI-first automation  
+- Architecting cloud-first SaaS for knowledge work and professional services  
 
-🌐 You can reach me through my [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)
+💡 **What Excites Me**  
+- The rapid evolution of generative AI and its real-world applications  
+- Designing systems that combine human context with machine intelligence  
+- Developer experience, workflow design, and the future of augmented work  
 
-🔮 **What's Next?** The core framework AI ∞ UI is complete.  Next, extending it to be a contextually aware code assistant.
+🚀 **Recent Milestones**  
+- Shipped [AI ∞ UI](https://github.com/AsgardSystemsAI/AI-UI) as a modular, API-first LLM orchestration framework  
+- Transitioned to full-time founder/operator at [AsgardSystems.AI](https://asgardsystems.ai/)  
+- Established Bifrost as our company’s secure, proprietary AI platform  
 
+🤝 **Let’s Connect**  
+- [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)  
+- [Email](mailto:wasabikev@gmail.com)  
+
+---
+
+> “The Cambrian Explosion of AI” is here.
 
 <!---
 wasabikev/wasabikev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->

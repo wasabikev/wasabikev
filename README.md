@@ -1,31 +1,31 @@
-# 👋 Hi, I'm Kevin Atkinson (wasabikev)
+# 👋 Kevin Atkinson
 
-AI-first builder, workflow optimizer, and lifelong learner.
+Building production AI platforms that solve real enterprise problems.
 
 ---
 
 🛠️ **Current Focus:**  
-- Building an internal AI orchestration platform powering AsgardSystems.AI and ClientContext for professional services. 
-- Exploring advanced LLM operations, contextual orchestration, and AI-first automation  
-- Architecting cloud-first SaaS for knowledge work and professional services  
+Architecting multi-tenant LLM orchestration at [Asgard Systems AI](https://asgardsystems.ai/) - async task queues handling 20+ minute operations, composite PII detection (37+ entity types), and evidence-based RAG for financial compliance. Most work in private repos under separate GitHub account.
 
-💡 **What Excites Me**  
-- The rapid evolution of generative AI and its real-world applications  
-- Designing systems that combine human context with machine intelligence  
-- Developer experience, workflow design, and the future of augmented work  
+💡 **Technical Interests**  
+- Python async patterns at scale (Quart, SQLAlchemy async, Redis queues)
+- Multi-provider LLM routing with deterministic fallbacks
+- Building compliant AI systems for regulated industries
+- Eliminating hallucinations through evidence-based architectures
 
-🚀 **Recent Milestones**  
-- Shipped [AI ∞ UI](https://github.com/AsgardSystemsAI/AI-UI) as a modular, API-first LLM orchestration framework  
-- Transitioned to full-time founder/operator at [AsgardSystems.AI](https://asgardsystems.ai/)  
+🚀 **Open Source Extracts** *(coming soon)*  
+- `async-llm-orchestrator` - Pattern for long-running AI operations without timeouts
+- `composite-pii-detector` - Multi-method framework for enterprise data protection
+- `evidence-based-rag` - Citation requirements for trustworthy AI responses
 
-🤝 **Let’s Connect**  
+📊 **Background**  
+20+ years in enterprise technology. Previously Director of Technology at HKP Advisors, building secure systems for professional services. Deep expertise in Python async systems, distributed architectures, and turning compliance requirements into scalable solutions.
+
+🤝 **Let's Connect**  
 - [LinkedIn](https://www.linkedin.com/in/atkinsonkevin/)  
 - [Email](mailto:wasabikev@gmail.com)  
+- Open to: Senior/Principal Engineer and AI Platform roles
 
 ---
 
-> “The Cambrian Explosion of AI” is here.
-
-<!---
-wasabikev/wasabikev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+> "Building the boring infrastructure that makes AI magic actually work in production."

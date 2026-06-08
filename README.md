@@ -12,7 +12,7 @@ It reproduces the design decisions of a production memory system — the *what a
 
 ## 🛠️ What I work on
 
-**AI Agent Platform Architect at Asgard Systems AI (2024–present)** — enterprise-grade AI orchestration. The parts that are actually hard:
+**AI Agent Platform Architect at Asgard Systems AI (2024–present)** — enterprise-grade AI orchestration.
 
 - **Agent memory & provenance** — persistent, cross-session knowledge with authority-tiered, evidence-based reasoning. (The architecture behind [evidence-grounded-memory](https://github.com/wasabikev/evidence-grounded-memory).)
 - **Retrieval that isn't just top-k** — dual-path keyword + semantic recall, section-level indexing, and budgeted context injection. Vector search is *one retrieval path*, not the memory.

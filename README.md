@@ -4,7 +4,7 @@
 
 ## 📌 Featured
 
-**[evidence-grounded-memory](https://github.com/wasabikev/evidence-grounded-memory)** — A runnable reference implementation of agent memory as a *living evidentiary record*, not a vector database.
+**[evidence-grounded-memory](https://github.com/wasabikev/evidence-grounded-memory)** — A runnable reference implementation of agent memory as a *living evidentiary record* — where vector search is a derived retrieval path, not the memory substrate.
 
 Durable markdown topic files are the source of truth; keyword (FTS5) and semantic search are derived, disposable views over them. Every fact carries authority-tiered provenance, and a fact's standing is **re-graded over time** — promoted when corroborated, superseded when contradicted — non-destructively, so the audit trail of *what the agent believed and why it changed* is preserved.
 

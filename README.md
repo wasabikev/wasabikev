@@ -2,6 +2,14 @@
 
 Building production AI platforms that solve real enterprise problems.
 
+## 📌 Featured
+
+**[evidence-grounded-memory](https://github.com/wasabikev/evidence-grounded-memory)** — A runnable reference implementation of agent memory as a *living evidentiary record*, not a vector database.
+
+Durable markdown topic files are the source of truth; keyword (FTS5) and semantic search are derived, disposable views over them. Every fact carries authority-tiered provenance, and a fact's standing is **re-graded over time** — promoted when corroborated, superseded when contradicted — non-destructively, so the audit trail of *what the agent believed and why it changed* is preserved.
+
+It reproduces the design decisions of a production memory system — the *what and why*, not the production code — with a full design narrative, seven named design decisions, an end-to-end runnable demo, and tests. Python · zero third-party dependencies.
+
 ## 🛠️ Current Focus
 
 **AI Agent Platform Architect** at Asgard Systems AI — Designing and implementing enterprise-grade AI orchestration systems with emphasis on:
@@ -12,7 +20,7 @@ Building production AI platforms that solve real enterprise problems.
 - **Multi-provider LLM routing** with intelligent fallbacks and cost optimization
 - **Production deployment** on modern cloud infrastructure with auto-scaling and monitoring
 
-Most work in private repositories under separate GitHub account due to IP considerations.
+Most production work lives in private repositories due to IP considerations — see **[evidence-grounded-memory](https://github.com/wasabikev/evidence-grounded-memory)** above for a public reference implementation that reproduces the architecture in a neutral domain.
 
 ## 💡 Technical Expertise
 

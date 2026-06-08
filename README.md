@@ -40,7 +40,9 @@ Most production work lives in private repositories due to IP considerations — 
 
 ## 📊 Background
 
-**20+ years in enterprise technology** — scalable web applications and distributed systems, financial-services technology and compliance, and turning complex business requirements into production systems. Previously **Director of Technology at HKP Advisors**, building secure systems for professional-services firms.
+20+ years shipping production systems for regulated industries — financial services, professional services, most recently as **Director of Technology at HKP Advisors**.
+
+That background is the reason my AI work centers on provenance, data isolation, and auditability rather than demos: I treat agent memory as an *auditable evidentiary record*, not a black box. The hard problems in AI platforms are the ones regulated enterprise software already had to solve — trust, provenance, and isolation under real load.
 
 ## 📬 Let's connect
 
